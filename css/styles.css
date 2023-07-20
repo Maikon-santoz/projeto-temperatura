@@ -21,7 +21,7 @@
   @media (max-width: 767px) {
   body {
     font-size: 16px; /* Ajuste o valor conforme necessário */
-    max-width: 100%; 
+     
   }
 }
 
@@ -36,7 +36,7 @@
     padding: 2rem;
     color: #fdfdfd;
     border-radius: 1rem;
-    max-width: 100%; /* 400px*/
+    max-width: 400px; /* 400px*/
   }
   
   /* Form */
